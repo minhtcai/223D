@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This repository contains the code and resources for our research on fine-tuning 2D segmentation models for 3D vision task, our work demonstrates that approach is viable, while the process is more expensive than expected but there are limitations that could be improved. The presentation and the report could be found [here](https://docs.google.com/presentation/d/1A8nDw6mRxrCmrL6xTCyuhMGYQotg3jcR4qrCwmoyu14/edit?usp=sharing) and [here](https://arxiv.org/pdf/2212.01552.pdf). 
+This repository contains the code and resources for our research on fine-tuning 2D segmentation models for 3D vision task, our work demonstrates that approach is viable, while the process is more expensive than expected but there are limitations that could be improved. The poster, presentation and the report could be found [here](https://docs.google.com/presentation/d/1yjT9xvL7sHk_B8tMqwsZW2-8D63V7EDldgDw2xpLw3U/edit?usp=sharing), [here](https://docs.google.com/presentation/d/1A8nDw6mRxrCmrL6xTCyuhMGYQotg3jcR4qrCwmoyu14/edit?usp=sharing) and [here](https://arxiv.org/pdf/2212.01552.pdf). 
 
 ## Replicate
 
